@@ -1,5 +1,5 @@
 [submodule "terraform/terraform-lab"]
-	path = terraform/terraform-lab
+	path = terraform/Terraform-lab
 	url = https://github.com/tanvir039/terraform-lab.git
 [submodule "cicd/cicd-demo"]
 	path = cicd/cicd-demo
