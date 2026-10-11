@@ -1,0 +1,39 @@
+[submodule "terraform/terraform-lab"]
+	path = terraform/terraform-lab
+	url = https://github.com/tanvir039/terraform-lab.git
+[submodule "cicd/cicd-demo"]
+	path = cicd/cicd-demo
+	url = https://github.com/tanvir039/cicd-demo.git
+[submodule "cicd/custom-action-demo"]
+	path = cicd/custom-action-demo
+	url = https://github.com/tanvir039/custom-action-demo.git
+[submodule "kubernetes/k8s-advanced-lab"]
+	path = kubernetes/k8s-advanced-lab
+	url = https://github.com/tanvir039/k8s-advanced-lab.git
+[submodule "kubernetes/k8s-learning"]
+	path = kubernetes/k8s-learning
+	url = https://github.com/tanvir039/k8s-learning.git
+[submodule "terraform/tf-learning"]
+	path = terraform/tf-learning
+	url = https://github.com/tanvir039/tf-learning.git
+[submodule "projects/ecs-vscode"]
+	path = projects/ecs-vscode
+	url = https://github.com/tanvir039/ecs-vscode-webapp.git
+[submodule "projects/k8s-v2"]
+	path = projects/k8s-v2
+	url = https://github.com/tanvir039/k8s-v2.git
+[submodule "linux-fundamentals"]
+	path = linux-fundamentals
+	url = https://github.com/tanvir039/linux-fundamentals.git
+[submodule "docker/docker-learning"]
+	path = docker/docker-learning
+	url = https://github.com/tanvir039/docker-learning.git
+[submodule "docker/docker-challenge"]
+	path = docker/docker-challenge
+	url = https://github.com/tanvir039/docker-challenge.git
+[submodule "Terraform/Terraform-lab"]
+	path = Terraform/Terraform-lab
+	url = https://github.com/tanvir039/terraform-lab.git
+[submodule "networking/nginx-ec2-project"]
+	path = networking/nginx-ec2-project
+	url = https://github.com/tanvir039/nginx-ec2-project.git
