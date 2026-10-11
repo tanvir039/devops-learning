@@ -23,8 +23,8 @@
 	path = projects/k8s-v2
 	url = https://github.com/tanvir039/k8s-v2.git
 [submodule "linux-fundamentals"]
-	path = linux-fundamentals
-	url = https://github.com/tanvir039/linux-fundamentals.git
+    path = linux/linux-fundamentals
+    url = https://github.com/tanvir039/linux-fundamentals.git
 [submodule "docker/docker-learning"]
 	path = docker/docker-learning
 	url = https://github.com/tanvir039/docker-learning.git
